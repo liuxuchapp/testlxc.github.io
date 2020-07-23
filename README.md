@@ -1,7 +1,7 @@
 # vue-compnay-template
 
 #### 介绍
-vue实现的通用企业官网模板，整合了jquery，bootstarp，iview
+vue实现的通用企业官网模板，整合了jquery，bootstarp，iview，可快速体验地址：[http://tessai.cn](http://tessai.cn) 这个地址是目前我公司在用的。
 
 #### 软件架构
 软件架构说明
